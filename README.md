@@ -21,3 +21,20 @@ hotel-management-system/
 │── hotel-management.py # Main Python script
 │── README.md # Documentation
 │── requirements.txt # Python dependencies
+
+## ⚙️ Requirements
+- Python 3.7+
+- MySQL Server (with a user having proper access)
+- `mysql-connector-python` package
+  
+📌 Example Menu
+1--->Enter Customer Details
+2--->Booking Record
+3--->Calculate Room Rent
+4--->Calculate Restaurant Bill
+5--->Calculate Gaming Bill
+6--->Calculate Fashion Store Bill
+7--->Display Customer Details
+8--->Generate Total Bill Amount
+9--->Generate Old Bill
+10--->Exit
